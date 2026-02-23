@@ -6,7 +6,7 @@ Below are the link to the notebooks and its demo -
 
 1. Colab a - Write  a colab  numpy only from scratch 3 layer deep neural network for non linear regression
 
-Demo - []
+
 
 2. Colab c - Write a colab pytorch from scratch - 3 layer deep neural network for non linear regression from scratch  WITHOUT using pytorch builtin layer functionality
 
